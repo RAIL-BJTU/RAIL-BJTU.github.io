@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Cyber Science and Technology</a>, <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University</a>.
+subtitle: <a href='#'>网络空间安全学院</a>, <a href='https://www.bjtu.edu.cn/'>北京交通大学</a>.
 
 profile:
   align: right
@@ -18,6 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+欢迎来到 Reinforced Artificial Intelligence Laboratory (RAIL) 研究组。
 Welcome to the home page of the Reinforced Artificial Intelligence Laboratory (RAIL). The RAIL research group was established by Professor Endong Tong in 2019. The members are affiliated with the School of Cyber Science and Technology at Beijing Jiaotong University.
 
 The RAIL research group focus on how to enable autonomous agents to acquire complex behaviors that are both safe and effective through learning.
